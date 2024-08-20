@@ -7,6 +7,8 @@ from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 import io
 
+st.set_page_config(page_title="Cluster ventas")
+
 # ------------------------------------------------------------------
 # --------------------- Carga y validacion -------------------------
 # ------------------------------------------------------------------
